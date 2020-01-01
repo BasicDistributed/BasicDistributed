@@ -1,0 +1,7 @@
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Util.FSharp\obj\Debug\netcoreapp2.1\BasicDistributed.Util.FSharp.AssemblyInfoInputs.cache
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Util.FSharp\obj\Debug\netcoreapp2.1\BasicDistributed.Util.FSharp.AssemblyInfo.fs
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Util.FSharp\bin\Debug\netcoreapp2.1\BasicDistributed.Util.FSharp.deps.json
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Util.FSharp\bin\Debug\netcoreapp2.1\BasicDistributed.Util.FSharp.dll
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Util.FSharp\bin\Debug\netcoreapp2.1\BasicDistributed.Util.FSharp.pdb
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Util.FSharp\obj\Debug\netcoreapp2.1\BasicDistributed.Util.FSharp.dll
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Util.FSharp\obj\Debug\netcoreapp2.1\BasicDistributed.Util.FSharp.pdb

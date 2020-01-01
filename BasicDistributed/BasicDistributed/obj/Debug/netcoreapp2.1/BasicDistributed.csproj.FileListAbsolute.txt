@@ -1,0 +1,11 @@
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\bin\Debug\netcoreapp2.1\BasicDistributed.deps.json
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\bin\Debug\netcoreapp2.1\BasicDistributed.runtimeconfig.json
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\bin\Debug\netcoreapp2.1\BasicDistributed.runtimeconfig.dev.json
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\bin\Debug\netcoreapp2.1\BasicDistributed.dll
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\bin\Debug\netcoreapp2.1\BasicDistributed.pdb
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\obj\Debug\netcoreapp2.1\BasicDistributed.csprojAssemblyReference.cache
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\obj\Debug\netcoreapp2.1\BasicDistributed.csproj.CoreCompileInputs.cache
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\obj\Debug\netcoreapp2.1\BasicDistributed.AssemblyInfoInputs.cache
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\obj\Debug\netcoreapp2.1\BasicDistributed.AssemblyInfo.cs
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\obj\Debug\netcoreapp2.1\BasicDistributed.dll
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed\obj\Debug\netcoreapp2.1\BasicDistributed.pdb

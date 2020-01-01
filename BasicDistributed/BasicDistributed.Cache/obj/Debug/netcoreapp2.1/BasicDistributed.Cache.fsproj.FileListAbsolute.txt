@@ -1,0 +1,11 @@
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\obj\Debug\netcoreapp2.1\BasicDistributed.Cache.fsprojAssemblyReference.cache
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\obj\Debug\netcoreapp2.1\BasicDistributed.Cache.AssemblyInfoInputs.cache
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\obj\Debug\netcoreapp2.1\BasicDistributed.Cache.AssemblyInfo.fs
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\bin\Debug\netcoreapp2.1\BasicDistributed.Cache.deps.json
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\bin\Debug\netcoreapp2.1\BasicDistributed.Cache.dll
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\bin\Debug\netcoreapp2.1\BasicDistributed.Cache.pdb
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\obj\Debug\netcoreapp2.1\BasicDistributed.Cache.dll
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\obj\Debug\netcoreapp2.1\BasicDistributed.Cache.pdb
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\bin\Debug\netcoreapp2.1\BasicDistributed.Util.FSharp.dll
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\bin\Debug\netcoreapp2.1\BasicDistributed.Util.FSharp.pdb
+C:\Users\yeswanth\Documents\Projects\BasicDistributed-master\BasicDistributed\BasicDistributed.Cache\obj\Debug\netcoreapp2.1\BasicDistributed.Cache.fsproj.CopyComplete
